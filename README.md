@@ -4,6 +4,6 @@
 
 ### Showcase: 
 - Day 1: JavaScript Drum Kit
-
+- Day 2: CSS + JS Clock
 
 [#JavaScript Challenge]: https://javascript30.com
