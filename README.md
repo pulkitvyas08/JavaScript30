@@ -5,5 +5,6 @@
 ### Showcase: 
 - Day 1: JavaScript Drum Kit
 - Day 2: CSS + JS Clock
+- Day 3: Controlling CSS variables with JS
 
 [#JavaScript Challenge]: https://javascript30.com
