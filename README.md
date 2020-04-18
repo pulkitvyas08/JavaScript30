@@ -7,5 +7,6 @@
 - Day 2: CSS + JS Clock
 - Day 3: Controlling CSS variables with JS
 - Day 4: Array Cardio Pt. 1
+- Day 5: Flex Panels
 
 [#JavaScript Challenge]: https://javascript30.com
