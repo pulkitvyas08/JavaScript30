@@ -10,5 +10,6 @@
 - Day 5: Flex Panels
 - Day 6: Type Ahead
 - Day 7: Array Cardio Pt. 2
+- Day 8: HTML5 Canvas
 
 [#JavaScript Challenge]: https://javascript30.com
