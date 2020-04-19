@@ -9,5 +9,6 @@
 - Day 4: Array Cardio Pt. 1
 - Day 5: Flex Panels
 - Day 6: Type Ahead
+- Day 7: Array Cardio Pt. 2
 
 [#JavaScript Challenge]: https://javascript30.com
