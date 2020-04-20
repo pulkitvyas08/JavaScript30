@@ -11,5 +11,6 @@
 - Day 6: Type Ahead
 - Day 7: Array Cardio Pt. 2
 - Day 8: HTML5 Canvas
+- Day 9: Dev Tools
 
 [#JavaScript Challenge]: https://javascript30.com
