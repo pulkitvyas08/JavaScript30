@@ -12,5 +12,6 @@
 - Day 7: Array Cardio Pt. 2
 - Day 8: HTML5 Canvas
 - Day 9: Dev Tools
+- Day 10: Hold Shift to check multiple checkboxes
 
 [#JavaScript Challenge]: https://javascript30.com
