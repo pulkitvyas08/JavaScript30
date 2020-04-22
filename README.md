@@ -13,5 +13,6 @@
 - Day 8: HTML5 Canvas
 - Day 9: Dev Tools
 - Day 10: Hold Shift to check multiple checkboxes
+- Day 11: Custom HTML Video Player
 
 [#JavaScript Challenge]: https://javascript30.com
