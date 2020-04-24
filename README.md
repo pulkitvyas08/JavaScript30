@@ -15,5 +15,6 @@
 - Day 10: Hold Shift to check multiple checkboxes
 - Day 11: Custom HTML Video Player
 - Day 12: Key Sequence Detection
+- Day 13: Slide in on Scroll
 
 [#JavaScript Challenge]: https://javascript30.com
