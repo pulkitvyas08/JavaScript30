@@ -17,5 +17,6 @@
 - Day 12: Key Sequence Detection
 - Day 13: Slide in on Scroll
 - Day 14: Objects and Arrays
+- Day 15: Local Storage and Event Delegation
 
 [#JavaScript Challenge]: https://javascript30.com
