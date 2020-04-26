@@ -19,5 +19,6 @@
 - Day 14: Objects and Arrays
 - Day 15: Local Storage and Event Delegation
 - Day 16: Mouse Move Shadow
+- Day 17: Sorting without Articles
 
 [#JavaScript Challenge]: https://javascript30.com
