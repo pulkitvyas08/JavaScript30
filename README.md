@@ -20,5 +20,6 @@
 - Day 15: Local Storage and Event Delegation
 - Day 16: Mouse Move Shadow
 - Day 17: Sorting without Articles
+- Day 18: Tally String time with Reduce
 
 [#JavaScript Challenge]: https://javascript30.com
