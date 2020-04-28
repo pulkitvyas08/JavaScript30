@@ -21,5 +21,6 @@
 - Day 16: Mouse Move Shadow
 - Day 17: Sorting without Articles
 - Day 18: Tally String time with Reduce
+- Day 19: Webcam
 
 [#JavaScript Challenge]: https://javascript30.com
