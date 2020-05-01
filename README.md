@@ -22,7 +22,9 @@
 - Day 17: Sorting without Articles
 - Day 18: Tally String time with Reduce
 - Day 19: Webcam
-- Day 20: Only Available for Mac
-- Day 21: Follow along links
+- Day 20: Native Speech Recognition
+  Day 21: Geolocation(Only Available for Mac, didn't do)
+- Day 22: Follow along links
+- Day 23: Speech Synthesis
 
 [#JavaScript Challenge]: https://javascript30.com
