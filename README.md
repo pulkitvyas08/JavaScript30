@@ -26,5 +26,6 @@
   Day 21: Geolocation(Only Available for Mac, didn't do)
 - Day 22: Follow along links
 - Day 23: Speech Synthesis
+- Day 24: Sticky Nav
 
 [#JavaScript Challenge]: https://javascript30.com
