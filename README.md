@@ -28,5 +28,6 @@
 - Day 23: Speech Synthesis
 - Day 24: Sticky Nav
 - Day 25: Understanding JS Capture
+- Day 26: Follow along Nav
 
 [#JavaScript Challenge]: https://javascript30.com
