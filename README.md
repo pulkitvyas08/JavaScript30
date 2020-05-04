@@ -29,5 +29,6 @@
 - Day 24: Sticky Nav
 - Day 25: Understanding JS Capture
 - Day 26: Follow along Nav
+- Day 27: Click and Drag
 
 [#JavaScript Challenge]: https://javascript30.com
