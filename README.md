@@ -30,5 +30,6 @@
 - Day 25: Understanding JS Capture
 - Day 26: Follow along Nav
 - Day 27: Click and Drag
+- Day 28: Video Speed Controller
 
 [#JavaScript Challenge]: https://javascript30.com
