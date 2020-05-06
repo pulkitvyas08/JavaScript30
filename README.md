@@ -31,5 +31,6 @@
 - Day 26: Follow along Nav
 - Day 27: Click and Drag
 - Day 28: Video Speed Controller
+- Day 29: Countdown Timer
 
 [#JavaScript Challenge]: https://javascript30.com
