@@ -32,5 +32,6 @@
 - Day 27: Click and Drag
 - Day 28: Video Speed Controller
 - Day 29: Countdown Timer
+- Day 30: Whack a Mole
 
 [#JavaScript Challenge]: https://javascript30.com
